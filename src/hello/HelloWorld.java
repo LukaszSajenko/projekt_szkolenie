@@ -6,6 +6,7 @@ public class HelloWorld {
 
 		System.out.println("Hello World!");
 		System.out.println("Teraz sprawdzam system zapisu po zakominutowaniu w gicie");
+		System.out.println("Coś jeszcze dodatkowego teraz, bo alarm był");
 
 	}
 
